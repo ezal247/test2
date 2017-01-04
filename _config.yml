@@ -1,3 +1,4 @@
 title: MOLPay Seamless Integration
 description: You can integrate MOLPay payment channel to stop redirecting your buyer to MOLPay payment page using seamless integration. Your buyer will use the snippet to popup the bank login page, authorize payment and then you'll get the payment results on your site (using the return URL, if set).
 theme: jekyll-theme-cayman
+show_downloads: false
